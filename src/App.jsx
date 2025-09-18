@@ -286,7 +286,7 @@ export default function App() {
           <div className="flex items-center">
             <span className="text-2xl font-bold text-teal-600"><img 
   src="/healtrack/public/logo.webp" 
-  alt="HealTrack Logo" 
+  alt="HealTrackAI" 
   className="w-auto h-20"
 /></span>
           </div>
